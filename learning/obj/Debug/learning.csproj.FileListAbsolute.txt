@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c#\learning\learning\bin\Debug\learning.exe.config
+C:\Users\Asus\Desktop\c#\learning\learning\bin\Debug\learning.exe
+C:\Users\Asus\Desktop\c#\learning\learning\bin\Debug\learning.pdb
+C:\Users\Asus\Desktop\c#\learning\learning\obj\Debug\learning.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c#\learning\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c#\learning\learning\obj\Debug\learning.exe
+C:\Users\Asus\Desktop\c#\learning\learning\obj\Debug\learning.pdb
